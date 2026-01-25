@@ -1,0 +1,958 @@
+@media (max-width: 1500px) {
+    .header .row-1 {
+        margin-right: 0;
+        padding-right: 5%;
+    }
+}
+
+@media (max-width: 1350px) {
+    .header .row-1 nav ul li {
+        padding: 8px 10px;
+    }
+    .header .row-1 {
+        margin-right: 0;
+        padding-right: 7%;
+    }
+    .container-1 .right-content {
+        width: 70%;
+        margin-right: -50px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .header .row-1 {
+        margin-right: 0;
+        padding-right: 2%;
+        font-size: 7px;
+    }
+
+    .header {
+        height: 160px;
+    }
+
+    .header .row-2 input {
+        width: 600px;
+    }
+    
+    .header .row-3 {
+        margin: 15px auto;
+    }
+
+    .container-1 .left-content input {
+        width: 350px;
+    }
+
+    .container-1 .right-content img {
+        width: 100%;
+    }
+
+    .card .overlay-text-1 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -95px;
+    font-size: 12px;
+    margin-top: 11px;
+    }
+
+    .overlay-text-1 h4 {
+        margin-top: 20px;
+        margin-left: -4px;
+    }
+
+    .overlay-text-1 h5 {
+        margin-top: 80px;
+        margin-left: -7px;
+    }
+
+    .overlay-text-1 span {
+        color: #5F6168;
+        margin-left: -8px;
+        margin-top: 17px;
+        display: inline-block;
+    }
+
+    .overlay-text-1 p {
+        margin-top: 45px;
+        margin-left: -26px;
+    }
+
+    .card .overlay-text-2 {
+        display: inline-block;
+        position: absolute;
+        margin-left: -92px;
+        font-size: 12px;
+        margin-top: 10px;
+    }
+
+    .overlay-text-2 h4 {
+        margin-top: 22px;
+        margin-left: -7px;
+    }
+
+    .overlay-text-2 h5 {
+        margin-top: 70px;
+        margin-left: -7px;
+    }
+
+    .overlay-text-2 span {
+        color: #5F6168;
+        margin-left: -10px;
+        margin-top: 17px;
+        display: inline-block;
+    }
+
+    .overlay-text-2 p {
+        margin-top: 40px;
+        margin-left: -26px;
+    }
+
+    .card .overlay-text-3 {
+        display: inline-block;
+        position: absolute;
+        margin-left: -75px;
+        font-size: 12px;
+        margin-top: 7px;
+    }
+
+    .overlay-text-3 h4 {
+        margin-top: 15px;
+        margin-left: -8px;
+        font-size: 10px;
+    }
+
+    .overlay-text-3 h5 {
+        margin-top: 60px;
+        margin-left: -6px;
+    }
+
+    .overlay-text-3 span {
+        color: #5F6168;
+        margin-left: -5px;
+        margin-top: 12px;
+        display: inline-block;
+    }
+
+    .overlay-text-3 p {
+        margin-top: 23px;
+        margin-left: -26px;
+    }
+
+    .container-2 .row-1 .left-content {
+        width: 300px;
+    }
+    .container-2 .row-1 .left-content a {
+        font-size: 9px;
+    }
+    .container-2 .row-1 .left-content p {
+        font-size: 8px;
+    }
+
+    .container-2 .row-1 .right-content {
+        width: 300px;
+    }
+
+    .container-2 .left-content .flex-row {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 16px 20px;
+    font-size: 12px;
+    }
+
+    .container-2 .left-content .border-row {
+        border-top: 1px solid #181A20;
+        border-bottom: 1px solid #181A20;
+        width: 80%;
+        margin: 0 auto;
+    } 
+
+    .container-2 .left-content .row-1-tb h3 {
+        font-size: 12px;
+        padding-top: 15px;
+        padding-left: 20px;
+    }
+
+    .container-2 .left-content .row-1-tb span {
+        font-size: 9px;
+        color: #5F6168;
+        padding: 10px 20px;
+        display: block;
+    }
+
+    .container-2 .left-content .row-2-tb {
+        background-color: #181A20;
+        width: 260px;
+    }
+
+    .container-2 .left-content .row-2-tb h3 {
+        font-size: 9px;
+        margin: 2px 0;
+        padding-right: 40px;
+    }
+
+    .container-2 .left-content .row-2-tb p {
+        font-size: 8px;
+        color: #717378;
+        padding: 0 23px;
+    }
+
+    .container-2 .left-content .row-3-tb {
+        width: 200px;
+    }
+
+    .container-2 .left-content .row-6-tb {
+        width: 200px;
+    }
+
+    .container-3 .right-content {
+        width: 300px;
+    }
+
+    .container-2 .left-content .row-3-tb a {
+        padding-left: 5px;
+        padding-right: 25px;
+    }
+
+    .container-2 .left-content .row-3-tb p {
+        padding-right: 50px;
+    }
+
+    .container-2 .left-content .row-4-tb img {
+        margin-left: -10px;
+    }
+
+    .container-2 .left-content .row-4-tb a {
+        padding-left: 5px;
+        padding-right: 18px;
+    }
+
+    .container-2 .left-content .row-4-tb p {
+        padding-right: 52px;
+    }
+
+    .container-2 .left-content .row-5-tb img {
+        margin-left: -10px;
+    }
+
+    .container-2 .left-content .row-5-tb a {
+        padding-left: 5px;
+        padding-right: 35px;
+    }
+
+    .container-2 .left-content .row-5-tb p {
+        padding-right: 50px;
+    }
+
+    .container-2 .left-content .row-6-tb a {
+        padding-left: 5px;
+        padding-right: 38px;
+    }
+
+    .container-2 .left-content .row-6-tb p {
+        padding-right: 47px;
+        margin-bottom: -1px;
+    }
+
+    .container-2 .left-content .row-7-tb {
+        background-color: #181A20;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        width: 300px;
+        padding: 8.6px 0;
+        margin: 0 auto;
+        display: flex;
+    }
+
+    .container-2 .left-content .row-7-tb a {
+        font-size: 14px;
+        margin: 0 auto;
+    }
+
+    .container-2 .right-content {
+        height: 390px;
+        width: 512px;
+        border: 2px solid #191c23;
+        border-radius: 12px;
+        margin-left: 30px;
+        flex-direction: column;
+    }
+
+    .container-2 .right-content .flex-row {
+        padding: 10px 0;
+    }
+
+    .container-2 .right-content span {
+        font-size: 9px;
+        color: #5F6168;
+        padding: 10px 30px;
+        display: block;
+        width: 80%;
+    }
+
+    .container-2 .right-content h3 {
+        font-size: 12px;
+        padding-left: 30px;
+        padding-top: 18px;
+    }
+
+    .container-2 .right-content a {
+        font-size: 14px;
+        color: #fff;
+    }
+
+    .container-2 .right-content .border-row {
+        border-top: 1px solid #181A20;
+        border-bottom: 1px solid #181A20;
+        padding: 24px 20px;
+    }
+
+    .container-2 .right-content .row-4-tb {
+        padding: 10px 20px;
+    }
+
+    .container-2 .right-content .video {
+        width: 70px;
+    }
+
+    .container-2 .right-content .pause {
+        width: 20px;
+        position: absolute;
+        margin-left: 20px;
+        margin-top: 16px;
+        cursor: pointer;
+    }
+
+    .container-2 .right-content .icon img {
+        width: 8px;
+    }
+
+    .container-2 .right-content .point img {
+        width: 4px;
+    }
+
+    .container-2 .right-content .flex-row {
+        display: flex;
+    }
+
+    .container-2 .right-content p {
+        font-size: 9px;
+        width: 87%;
+        padding-left: 10px;
+        margin-top: -3px;
+        padding-bottom: 10px;
+    }
+
+    .container-2 .right-content button {
+        height: 21px;
+        width: 90px;
+        background-color: #272A30;
+        outline: none;
+        border: none;
+        font-weight: 700;
+        border-radius: 2px;
+        color: #5F6168;
+        cursor: pointer;
+        font-size: 9px;
+    }
+
+    .container-2 .right-content .row-5-tb {
+        padding: 0;
+        background-color: #181A20;
+        height: 34px;
+        background-color: #181A20;
+        border-bottom-left-radius: 12px;
+        border-bottom-right-radius: 12px;
+        width: 300px;
+    }
+
+    .container-2 .right-content .row-5-tb a {
+        margin: 0 auto;
+        display: flex;
+        align-items: center;
+    }
+
+    .container-2 .right-content .bt-1 {
+        width: 47px;
+        height: 18px;
+        margin-left: 10px;
+    }
+
+    .container-2 .right-content .bt-1 img {
+        margin-right: 5px;
+        margin-bottom: -1px;
+    }
+
+    .container-2 .right-content .bt-2 {
+        width: 52px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-3 {
+        width: 43px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-3 img {
+        margin-right: 5px;
+        margin-bottom: 2px;
+    }
+
+    .container-2 .right-content .bt-4 {
+        margin-left: 10px;
+        width: 67px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-4 img {
+        margin-right: 5px;
+        margin-bottom: -1px;
+    }
+
+    .container-2 .right-content .bt-5 {
+        width: 42px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-6 {
+        width: 56px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-6 img {
+        margin-right: 5px;
+        margin-bottom: 2px;
+    }
+
+    .container-2 .right-content .bt-7 {
+        margin-left: 10px;
+        width: 45px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-7 img {
+        margin-right: 5px;
+        margin-bottom: -1px;
+        margin-left: 2px;
+    }
+
+    .container-2 .right-content .bt-8 {
+        width: 42px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-9 {
+        width: 50px;
+        height: 18px;
+    }
+
+    .container-2 .right-content .bt-9 img {
+        margin-right: 5px;
+        margin-bottom: 2px;
+        margin-left: 2px;
+    }
+    .container-2 .row-2 .content {
+        overflow-x: auto;
+        scroll-snap-type: x mandatory;
+        justify-content: start;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    .container-3 .right-content {
+        width: 450px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 1000px) {
+    .header .row-1 nav ul li a {
+        font-size: 11px;
+    }
+
+    .header .row-1 nav ul li {
+        padding: 8px 5px;
+    }
+
+    .header .trackx {
+        width: 70px;
+    }
+
+    .first-icon {
+        width: 9px;
+        padding-left: 2px;
+    }
+
+    .second-icon {
+        width: 40px;
+    }
+
+    .header .row-2 input {
+        width: 400px;
+    }
+
+    .container-1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .valorant-lg {
+        margin: 7px 0; 
+    }
+
+    .container-1 .left-content-row {
+        width: 400px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+
+    .container-1 .left-content button {
+        margin: 20px 0;
+    }
+
+    .container-1 .right-content {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .container-3 .row-2 .first-menu nav ul li a {
+        font-size: 8px;
+        margin: 5px 2px;
+        padding: 5px 10px;
+    }
+
+    .container-3 .row-2 .second-menu nav ul li a {
+        font-size: 8px;
+        margin: 5px 2px;
+        padding: 5px 10px;
+    }
+
+    .footer {
+        margin: 0 20px;
+    }
+
+    .footer nav ul li a {
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 720px) {
+    .header {
+        height: 100px;
+        margin: 0;
+    }
+
+    .header .row-1 {
+        display: none;
+    }
+
+    .header .row-2 {
+        padding-top: 10px;
+        margin: 0;  
+    }
+
+    .header .row-2 .lng {
+        font-size: 11px;
+        margin: 0 10px;
+    }
+
+    .header .row-2 .login {
+        font-size: 10px;
+    }
+
+    .header .row-2 input {
+        width: 240px;
+    }
+
+    .header .row-3 nav ul li a {
+        margin: 0 5px;
+        font-size: 10px;
+    }
+
+    .container-1 .right-content {
+        margin-left: -50px;
+        justify-content: center;
+        width: 110%;
+        padding-top: 50px;
+    }
+
+    .container-1 .left-content-row {
+        width: 300px;
+    }
+
+    .container-1 .right-content .card-1 {
+        width: 110px;
+        margin-right: 30px;
+    }
+
+    .container-1 .right-content .card-2 {
+        width: 90px;
+        margin-right: 30px;
+    }
+
+    .container-1 .right-content .card-3 {
+        width: 70px;
+    }
+
+    .card .overlay-text-1 {
+    display: inline-block;
+    position: absolute;
+    margin-left: -62px;
+    font-size: 8px;
+    margin-top: 7px;
+    }
+
+    .overlay-text-1 h4 {
+        margin-top: 12px;
+        margin-left: -4px;
+    }
+
+    .overlay-text-1 h5 {
+        margin-top: 50px;
+        margin-left: -7px;
+    }
+
+    .overlay-text-1 span {
+        color: #5F6168;
+        margin-left: -8px;
+        margin-top: 17px;
+        display: inline-block;
+    }
+
+    .overlay-text-1 p {
+        margin-top: 26px;
+        margin-left: -20px;
+    }
+
+    .card .overlay-text-2 {
+        display: inline-block;
+        position: absolute;
+        margin-left: -52px;
+        font-size: 12px;
+        margin-top: 5px;
+        font-size: 7px;
+    }
+
+    .overlay-text-2 h4 {
+        margin-top: 11px;
+        margin-left: -5px;
+    }
+
+    .overlay-text-2 h5 {
+        margin-top: 40px;
+        margin-left: -5px;
+    }
+
+    .overlay-text-2 span {
+        color: #5F6168;
+        margin-left: -7px;
+        margin-top: 10px;
+        display: inline-block;
+    }
+
+    .overlay-text-2 p {
+        margin-top: 26px;
+        margin-left: -16px;
+    }
+
+    .card .overlay-text-3 {
+        display: inline-block;
+        position: absolute;
+        margin-left: -41px;
+        font-size: 12px;
+        margin-top: 5px;
+        font-size: 6px;
+    }
+
+    .overlay-text-3 h4 {
+        margin-top: 7px;
+        margin-left: -7px;
+        font-size: 6px;
+    }
+
+    .overlay-text-3 h5 {
+        margin-top: 33px;
+        margin-left: -4px;
+    }
+
+    .overlay-text-3 span {
+        color: #5F6168;
+        margin-left: -4px;
+        margin-top: 6px;
+        display: inline-block;
+    }
+
+    .overlay-text-3 p {
+        margin-top: 15px;
+        margin-left: -13px;
+    }
+
+    .wrapper-2 {
+        height: 1450px;
+    }
+
+    .container-2 .row-1 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-2 .row-1 .right-content {
+        margin: 20px 0;
+    }
+
+    .container-3 .row-2 .first-menu nav ul li a {
+        font-size: 4px;
+    }
+
+    .container-3 .row-2 .second-menu nav ul li a {
+        font-size: 4px;
+    }
+
+    .wrapper-3 {
+        height: 1000px;
+    }
+
+    .container-3 .column {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .container-2 .left-content .row-2-tb{
+        box-sizing: border-box;
+        width: 300px;
+    }
+
+    .container-3 .right-content {
+        padding-top: 20px;
+    }
+
+    .container-4 h4 {
+        font-size: 10px;
+    }
+
+    .footer .box-1 button {
+        width: 100px;
+        height: 30px;
+        font-size: 10px;
+        margin-top: 15px;
+        margin-bottom: 20px;
+    }
+
+    .footer .box-1 a {
+        font-size: 9px;
+    }
+
+    .footer .box-1 h6 {
+        font-size: 9px;
+        padding-bottom: 22px;
+    }
+
+    .footer .box-1 .row-1 img {
+        width: 50px;
+    }
+
+    .footer .box-1 .row-4 img {
+        width: 18px;
+        padding-bottom: 1px;
+    }
+    
+    .footer .box-1 {
+        margin-top: 20px;
+        margin-right: 10px;  
+    }
+
+    .footer .box-2 a {
+        font-size: 9px;
+    }
+    
+    .footer .box-3 a {
+        font-size: 9px;
+    }
+    
+    .footer .box-4 a {
+        font-size: 9px;
+    }
+
+    .footer .line-height {
+        line-height: 4;
+    }
+
+    .footer .box-1 .row-5 a {
+        line-height: 1;
+    }
+    
+    .wrapper-5 {
+        height: 235px;
+    }
+}
+
+@media (max-width: 480px) {
+    .header {
+        height: 85px;
+    }
+
+    .container-3 .right-content {
+        margin-left: 0;
+    }
+
+    .header .row-2 input {
+        width: 40%;
+    }
+
+    .header .row-2 .lng {
+        font-size: 9px;
+        margin: 0 7px;
+    }
+
+    .header .row-2 .login {
+        width: 20%;
+        font-size: 8px;
+        height: 24px;
+    }
+
+    .header .row-3 {
+        margin: 7px 0;
+    }
+
+    .header .row-3 nav ul li a {
+        font-size: 6px;
+    }
+
+    .header .row-3 .valorant-img {
+        width: 13px;
+        margin-top: 8px;
+    }
+
+    .header .row-3 .vector-block {
+        margin-top: 15px;
+    }
+
+    .container-1 .left-content input {
+        width: 140%;
+        height: 30px;
+        background-position: left 10px bottom;
+        padding-left: 35px;
+        font-size: 9px;
+    }
+
+    .container-1 .left-content a {
+        font-size: 9px;
+    }
+
+    .container-1 .left-content .left-content-row img {
+        width: 7px;
+        margin-right: 5px;
+    }
+
+    .container-1 .right-content .card {
+        margin-right: 10px;
+    }
+
+    .container-2 .row-2 .info {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+
+    .container-3 .row-2 .first-menu nav ul li a {
+        padding: 6px 3px;
+    }
+
+    .container-3 .row-2 .second-menu nav ul li a {
+        padding: 6px 3px;
+    }
+
+    .container-3 .right-content {
+        align-items: center;
+        width: 300px;
+    }
+
+    .container-3 .right-content .up {
+        width: 300px;
+    }
+
+    .container-3 .right-content .up .left img {
+        width: 175px;
+    }
+
+    .container-3 .right-content .up .right img {
+        width: 15px;
+    }
+
+    .container-3 .right-content .low {
+        width: 300px;
+    }
+
+    .container-3 .right-content .low .line {
+        width: 150px;
+    }
+
+    .container-3 .right-content .low .row-1 .box-2 {
+        margin-left: -15px;
+    }
+    
+    .container-3 .right-content .low .row-2 .box-2 {
+        margin-left: -15px;
+    }
+    .container-3 .right-content .low .row-3 .box-2 {
+        margin-left: -15px;
+    }
+    .container-3 .right-content .low .row-4 .box-2 {
+        margin-left: -15px;
+    }
+
+    .container-4 h4 {
+        font-size: 7px;
+        padding-top: 40px;
+    }
+
+    .container-4 button {
+        background-position: left 11px center;
+        height: 35px;
+        width: 150px;
+        margin: 30px auto;
+    }
+
+    .wrapper-4 {
+        height: 155px;
+    }
+
+    .wrapper-5 {
+        height: 195px;
+    }
+
+    .footer {
+        margin: 0 10px;
+    }
+
+    .footer .box-2 a {
+        font-size: 6px;
+    }
+    
+    .footer .box-3 a {
+        font-size: 6px;
+    }
+    
+    .footer .box-4 a {
+        font-size: 6px;
+    }
+
+    .footer .box-1 button {
+        width: 70px;
+        font-size: 9px;
+        margin-top: 7px;
+        margin-bottom: 15px;
+    }
+
+    .footer .box-1 .row-4 img {
+        width: 15px;
+        padding-bottom: 1px;
+        margin-right: 3px;
+    }
+
+    .footer .box-1 {
+        margin-top: 1px;
+    }
+    
+    .footer .box-1 a {
+        font-size: 6px;
+    }
+}
